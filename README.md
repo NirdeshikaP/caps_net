@@ -14,6 +14,4 @@ Validation dataset: https://s3-us-west-1.amazonaws.com/udacity-dlnfd/datasets/sk
 Data is present in jpg format.
 
 There are 3 classes: 
-melanoma
-nevus
-seborrheic_keratosis.
+melanoma, nevus, seborrheic_keratosis.
