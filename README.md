@@ -1,10 +1,19 @@
 # caps_net
 Cancer detection using Capsule Learning 
 
-Dataset : https://www.kaggle.com/c/6004/download/sample_images.7z
+Data
+Training dataset: https://s3-us-west-1.amazonaws.com/udacity-dlnfd/datasets/skin-cancer/train.zip
 
+Test dataset: https://s3-us-west-1.amazonaws.com/udacity-dlnfd/datasets/skin-cancer/test.zip
+
+Validation dataset: https://s3-us-west-1.amazonaws.com/udacity-dlnfd/datasets/skin-cancer/valid.zip
 .
 
-Use dataset_password for accessing the data.
 
-Data is present in DICOM(.dcm format)
+
+Data is present in jpg format.
+
+There are 3 classes: 
+melanoma
+nevus
+seborrheic_keratosis.
